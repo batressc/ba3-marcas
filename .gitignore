@@ -1,0 +1,12 @@
+node_modules
+typings
+app/*.js
+app/*.js.map
+app/*/*.js
+app/*/*.js.map
+app/*/*/*.js
+app/*/*/*.js.map
+app/*/*/*/*.js
+app/*/*/*/*.js.map
+bower_components
+npm-debug.*

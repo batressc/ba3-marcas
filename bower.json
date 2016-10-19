@@ -1,0 +1,17 @@
+{
+  "name": "ba3-marcas",
+  "description": "Sistema de Administración de Marcas",
+  "main": "",
+  "authors": [
+    "Luis Gustavo Fernández Batres <elclon_fernanbrans@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
