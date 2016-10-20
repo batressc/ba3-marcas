@@ -1,1 +1,6 @@
-<h1>Working!</h1>
+<h1>{{ message }}</h1>
+<br />
+<input type="text" [(ngModel)]="texto" />
+<br />
+<button (click)="echoWorker()">Iniciar timer!</button>
+<button (click)="stopWorker()">Detener timer!</button>
